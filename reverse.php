@@ -1,5 +1,5 @@
 <?php
-$set = "setyagus sucipto sedang makan ";
+$set = "<pre>". "setyagus sucipto   sedang makan " ."</pre>";
 echo $set;
 
 echo "<br>";
