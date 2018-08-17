@@ -1,6 +1,6 @@
 <?php
-$set = "<pre>". "setyagus sucipto   sedang makan " ."</pre>";
-echo $set;
+$set =  "setyagus sucipto   sedang makan ";
+echo "<pre> $set </pre>";
 
 echo "<br>";
 $ubah = array_reverse(explode(' ' ,$set));
